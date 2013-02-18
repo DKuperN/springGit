@@ -3,6 +3,7 @@ import java.util.Random;
 /**
  * Autor: Денис
  * Date: 06.02.13
+ * update 18/02/2013
  */
 public class HelloWorldMessageProvider implements MessageProviderI {
     private String message;

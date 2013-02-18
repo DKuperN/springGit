@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" name="Default" comment="Добавлен рандомный выбор выходного сообщения&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/HelloWorldMessageProvider.java" afterPath="$PROJECT_DIR$/src/main/java/HelloWorldMessageProvider.java" />
     </list>
     <ignored path="Spring.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -12,14 +12,14 @@
     <file path="/ActionScript File Header.txt.ft" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360177697608" ignored="false" />
     <file path="/IMessageRender.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360177959410" ignored="false" />
     <file path="/File Header.txt.ft" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360177998794" ignored="false" />
-    <file path="/HelloWorldMessageProvider.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361212688098" ignored="false" />
+    <file path="/HelloWorldMessageProvider.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361213040035" ignored="false" />
     <file path="/StandartOutMessageRender.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360179378618" ignored="false" />
     <file path="/MessageRender.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360179574633" ignored="false" />
     <file path="/MessageSuppertFactory.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360266033794" ignored="false" />
     <file path="/msf.properties" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360181341092" ignored="false" />
     <file path="/HelloWorldSpringDI.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360263891950" ignored="false" />
     <file path="/app-context.xml" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360265111458" ignored="false" />
-    <file path="/Dummy.txt" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361212720222" ignored="false" />
+    <file path="/Dummy.txt" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361213048710" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,7 @@
       <file leaf-file-name="HelloWorldMessageProvider.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldMessageProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="36" selection-start="400" selection-end="400" vertical-scroll-proportion="0.35460123">
+            <state line="5" column="20" selection-start="84" selection-end="84" vertical-scroll-proportion="0.10429448">
               <folding />
             </state>
           </provider>
@@ -589,7 +589,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24554294" sideWeight="0.6706302" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20178282" sideWeight="0.6706302" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4197384" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -760,7 +760,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldMessageProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="36" selection-start="400" selection-end="400" vertical-scroll-proportion="0.35460123">
+        <state line="5" column="20" selection-start="84" selection-end="84" vertical-scroll-proportion="0.10429448">
           <folding />
         </state>
       </provider>
