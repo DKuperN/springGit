@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" name="Default" comment="Добавлен рандомный выбор выходного сообщения&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/HelloWorldMessageProvider.java" afterPath="$PROJECT_DIR$/src/main/java/HelloWorldMessageProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ch4/BookwormOracle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ch4/ConstructorInjection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ch4/Conteiner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ch4/ContextualizedDependencyLookup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ch4/Dependency.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ch4/Enciclopedia.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ch4/ManagedComponent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ch4/Oracle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ch4/SetterInjection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring/app-context.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring/app-context.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/properties/msf.properties" afterPath="$PROJECT_DIR$/src/main/resources/properties/msf.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\gitRepo\springGit\src\main\java\HelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/basehelloworld/HelloWorld.java" />
+      <change type="MOVED" beforePath="E:\gitRepo\springGit\src\main\java\HelloWorldMessageProvider.java" afterPath="$PROJECT_DIR$/src/main/java/basehelloworld/HelloWorldMessageProvider.java" />
+      <change type="MOVED" beforePath="E:\gitRepo\springGit\src\main\java\HelloWorldSpringDI.java" afterPath="$PROJECT_DIR$/src/main/java/basehelloworld/HelloWorldSpringDI.java" />
+      <change type="MOVED" beforePath="E:\gitRepo\springGit\src\main\java\MessageProviderI.java" afterPath="$PROJECT_DIR$/src/main/java/basehelloworld/MessageProviderI.java" />
+      <change type="MOVED" beforePath="E:\gitRepo\springGit\src\main\java\MessageRenderI.java" afterPath="$PROJECT_DIR$/src/main/java/basehelloworld/MessageRenderI.java" />
+      <change type="MOVED" beforePath="E:\gitRepo\springGit\src\main\java\MessageSuppertFactory.java" afterPath="$PROJECT_DIR$/src/main/java/basehelloworld/MessageSuppertFactory.java" />
+      <change type="MOVED" beforePath="E:\gitRepo\springGit\src\main\java\StandartOutMessageRender.java" afterPath="$PROJECT_DIR$/src/main/java/basehelloworld/StandartOutMessageRender.java" />
     </list>
     <ignored path="Spring.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/HelloWorld.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360180709262" ignored="false" />
-    <file path="/fragment.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361212097013" ignored="false" />
+    <file path="/fragment.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361304080281" ignored="false" />
     <file path="/MessageProvider.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360177740885" ignored="false" />
     <file path="/ActionScript File Header.txt.ft" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360177697608" ignored="false" />
     <file path="/IMessageRender.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360177959410" ignored="false" />
@@ -19,7 +38,17 @@
     <file path="/msf.properties" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360181341092" ignored="false" />
     <file path="/HelloWorldSpringDI.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360263891950" ignored="false" />
     <file path="/app-context.xml" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360265111458" ignored="false" />
-    <file path="/Dummy.txt" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361213048710" ignored="false" />
+    <file path="/Dummy.txt" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361299511007" ignored="false" />
+    <file path="/DependencyPullMain.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361300172620" ignored="false" />
+    <file path="/ManagedComponent.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361300666334" ignored="false" />
+    <file path="/Conteiner.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361300749675" ignored="false" />
+    <file path="/ContextualizedDependencyLookup.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361301443190" ignored="false" />
+    <file path="/a.dummy" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361301113327" ignored="false" />
+    <file path="/Dependency.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361301484217" ignored="false" />
+    <file path="/ConstructorInjection.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361301746163" ignored="false" />
+    <file path="/SetterInjection.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361302005968" ignored="false" />
+    <file path="/Oracle.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361303317547" ignored="false" />
+    <file path="/BookwormOracle.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361303577319" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +63,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -69,6 +97,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -78,19 +107,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloWorldSpringDI.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldSpringDI.java">
+      <file leaf-file-name="Conteiner.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch4/Conteiner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="18" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0">
+            <state line="8" column="44" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWorldMessageProvider.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldMessageProvider.java">
+      <file leaf-file-name="ContextualizedDependencyLookup.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch4/ContextualizedDependencyLookup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="20" selection-start="84" selection-end="84" vertical-scroll-proportion="0.10429448">
+            <state line="13" column="28" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConstructorInjection.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch4/ConstructorInjection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="13" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetterInjection.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch4/SetterInjection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="4" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Oracle.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch4/Oracle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="40" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookwormOracle.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch4/BookwormOracle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="43" selection-start="188" selection-end="188" vertical-scroll-proportion="0.32755297">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enciclopedia.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch4/Enciclopedia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="13" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -114,17 +188,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/IMessageRender.java" />
-        <option value="$PROJECT_DIR$/src/main/java/IMessageProvider.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MessageProvider.java" />
-        <option value="$PROJECT_DIR$/src/main/java/msf.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/main/java/HelloWorldSpringDI.java" />
         <option value="$PROJECT_DIR$/src/main/java/MessageSuppertFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/MessageRender.java" />
         <option value="$PROJECT_DIR$/src/main/java/StandartOutMessageRender.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/app-context.xml" />
         <option value="$PROJECT_DIR$/src/main/java/HelloWorldMessageProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DependencyPullMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch4/ManagedComponent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch4/Conteiner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch4/ContextualizedDependencyLookup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch4/Dependency.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch4/ConstructorInjection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch4/SetterInjection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch4/Oracle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch4/BookwormOracle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch4/Enciclopedia.java" />
       </list>
     </option>
   </component>
@@ -157,7 +236,7 @@
     <OptionsSetting value="true" id="Edit" />
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -171,17 +250,23 @@
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Spring" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -248,10 +333,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springGit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springGit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basehelloworld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,20 +406,27 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="Downloaded.Files.Path" value="E:\JavaProgects\Spring\lib" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="Downloaded.Files.Path" value="E:\JavaProgects\Spring\lib" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\JavaProgects\Spring\src\main\java\properties" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch4" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ch4" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="basehelloworld" />
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaProgects\Spring\src\main\java\properties" />
     </key>
   </component>
   <component name="RunManager" selected="Application.консоль">
@@ -300,6 +442,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -328,19 +483,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -443,7 +585,7 @@
     </configuration>
     <configuration default="false" name="консоль" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="HelloWorldSpringDI" />
+      <option name="MAIN_CLASS_NAME" value="basehelloworld.HelloWorldSpringDI" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -569,12 +711,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32858837" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -583,17 +726,16 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20178282" sideWeight="0.6706302" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20178282" sideWeight="0.67141163" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4197384" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -659,108 +801,112 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#project#0" expanded="false" />
-            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
-            <element signature="tag#dependency#0;tag#dependencies#0;tag#project#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="42" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="318" column="13" selection-start="12239" selection-end="12239" vertical-scroll-proportion="0.3326886" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/util/Properties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="116" column="6" selection-start="4178" selection-end="4178" vertical-scroll-proportion="0.3326886" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="53" selection-start="1701" selection-end="1701" vertical-scroll-proportion="0.5006135" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="344" selection-end="344" vertical-scroll-proportion="0.34758365" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MessageSuppertFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="115" selection-end="115" vertical-scroll-proportion="0.22077923" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/properties/msf.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#project#0" expanded="false" />
-            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
-            <element signature="tag#dependency#0;tag#dependencies#0;tag#project#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MessageProviderI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="17" selection-start="169" selection-end="169" vertical-scroll-proportion="0.14987406">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MessageRenderI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="44" selection-start="256" selection-end="256" vertical-scroll-proportion="0.18773006">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/app-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="59" selection-start="485" selection-end="485" vertical-scroll-proportion="0.15082383">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StandartOutMessageRender.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basehelloworld/StandartOutMessageRender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="56" selection-start="98" selection-end="98" vertical-scroll-proportion="0.08343558">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldSpringDI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="18" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="11" selection-start="3964" selection-end="3964" vertical-scroll-proportion="0.33251533">
+        <state line="119" column="11" selection-start="3964" selection-end="3964" vertical-scroll-proportion="0.33251533" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basehelloworld/HelloWorldSpringDI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="56" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorldMessageProvider.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch4/ManagedComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="20" selection-start="84" selection-end="84" vertical-scroll-proportion="0.10429448">
+        <state line="8" column="37" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.1.1.RELEASE/spring-beans-3.1.1.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="0" selection-start="7006" selection-end="7006" vertical-scroll-proportion="0.33292535">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch4/Conteiner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="44" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch4/Dependency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="47" selection-start="65" selection-end="65" vertical-scroll-proportion="0.094444446">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch4/ContextualizedDependencyLookup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="28" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch4/ConstructorInjection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch4/SetterInjection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="4" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch4/Oracle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="40" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch4/Enciclopedia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basehelloworld/HelloWorldMessageProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basehelloworld/MessageProviderI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="18" selection-start="231" selection-end="231" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basehelloworld/MessageRenderI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="194" selection-end="194" vertical-scroll-proportion="0.2947977">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch4/BookwormOracle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="43" selection-start="188" selection-end="188" vertical-scroll-proportion="0.32755297">
           <folding />
         </state>
       </provider>

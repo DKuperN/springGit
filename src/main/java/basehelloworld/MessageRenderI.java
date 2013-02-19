@@ -1,3 +1,5 @@
+package basehelloworld;
+
 /**
  * Created with IntelliJ IDEA.
  * User: Денис
@@ -8,5 +10,5 @@
 public interface MessageRenderI {
     public void render();
     public void setMessageProvider(MessageProviderI provider);
-    //public MessageProviderI getMessageProvider();
+    //public basehelloworld.MessageProviderI getMessageProvider();
 }

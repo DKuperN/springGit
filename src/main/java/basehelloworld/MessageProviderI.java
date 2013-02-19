@@ -1,3 +1,5 @@
+package basehelloworld;
+
 /**
  * Created with IntelliJ IDEA.
  * User: Денис

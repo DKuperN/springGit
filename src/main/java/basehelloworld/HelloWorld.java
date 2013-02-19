@@ -1,3 +1,5 @@
+package basehelloworld;
+
 /**
  * User: Денис
  * Date: 05.02.13

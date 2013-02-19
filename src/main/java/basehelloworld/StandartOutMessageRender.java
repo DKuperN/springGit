@@ -1,3 +1,5 @@
+package basehelloworld;
+
 /**
  * Autor: Денис
  * Date: 06.02.13
@@ -19,7 +21,7 @@ public class StandartOutMessageRender implements MessageRenderI {
         this.messageProvider = provider;
     }
 
-//    public MessageProviderI getMessageProvider() {
+//    public basehelloworld.MessageProviderI getMessageProvider() {
 //        return this.messageProvider;
 //    }
 
