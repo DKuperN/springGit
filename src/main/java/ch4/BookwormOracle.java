@@ -3,6 +3,7 @@ package ch4;
 /**
  * Autor: Денис
  * Date: 19.02.13
+ * проверка комитов
  */
 public class BookwormOracle implements Oracle {
 
