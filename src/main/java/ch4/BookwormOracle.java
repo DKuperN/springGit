@@ -5,6 +5,7 @@ package ch4;
  * Date: 19.02.13
  * проверка комитов
  * 321312
+ * 321312
  */
 public class BookwormOracle implements Oracle {
 
