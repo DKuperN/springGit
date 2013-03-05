@@ -14,7 +14,7 @@ public class XmlConfigWithBeanFactory {
 
         XmlBeanDefinitionReader bdr = new XmlBeanDefinitionReader(factory);
 
-        bdr.loadBeanDefinitions(new FileSystemResource("spring/xmlBeanFactory.xml"));
+        bdr.loadBeanDefinitions(new FileSystemResource("src/main/resources/spring/xmlBeanFactory.xml"));
         Oracle oracle = factory.getBean("oracle", Oracle.class);
         System.out.println(oracle.defineMeaningOfLife());
 

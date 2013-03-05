@@ -13,8 +13,9 @@ public class BookwormOracle implements Oracle {
         this.enciclopedia = enciclopedia;
     }
 
+    private String text = "better use Internet";
     @Override
     public String defineMeaningOfLife() {
-        return "better use Internet";
+        return text +" - from"+ BookwormOracle.this.getClass().getName()+".java";
     }
 }
