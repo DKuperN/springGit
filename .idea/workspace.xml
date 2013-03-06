@@ -19,7 +19,7 @@
     <file path="/msf.properties" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360181341092" ignored="false" />
     <file path="/HelloWorldSpringDI.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360263891950" ignored="false" />
     <file path="/app-context.xml" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1360265111458" ignored="false" />
-    <file path="/Dummy.txt" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1362575479473" ignored="false" />
+    <file path="/Dummy.txt" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1362575523639" ignored="false" />
     <file path="/DependencyPullMain.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361300172620" ignored="false" />
     <file path="/ManagedComponent.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361300666334" ignored="false" />
     <file path="/Conteiner.java" changelist="bcf20c1e-62fe-4cd6-b1bb-6bc9d512a539" time="1361300749675" ignored="false" />
@@ -888,7 +888,11 @@
       <created>1362508948698</created>
       <updated>1362508948698</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="xmlBeanFactory">
+      <created>1362575526880</created>
+      <updated>1362575526880</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -906,6 +910,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289941" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -916,7 +921,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858837" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289941" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
