@@ -11,4 +11,5 @@ public interface MessageRenderI {
     public void render();
     public void setMessageProvider(MessageProviderI provider);
     //public basehelloworld.MessageProviderI getMessageProvider();
+    public MessageProviderI getMessageProvider();
 }
