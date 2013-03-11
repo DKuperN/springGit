@@ -15,6 +15,8 @@
     <context:annotation-config/>
     <context:component-scan base-package="ch4.xml"/>
 
-    <bean id="messageRender" class=""/>
+    <bean id="messageRender" class="ch4.xml.StandartOutMessageRender"/>
+
+    <bean id="messageProvider" class="ch4.xml.HelloWorldMessageProvider"/>
 
 </beans>

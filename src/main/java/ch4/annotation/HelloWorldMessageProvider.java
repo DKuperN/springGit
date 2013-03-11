@@ -1,11 +1,15 @@
-package ch4.xml;
+package ch4.annotation;
 
 import basehelloworld.MessageProviderI;
+import org.springframework.stereotype.Service;
 
 /**
  * @author Denis Kupriyanchik
- *         Date: 07.03.13
+ *         Date: 11.03.13
  */
+
+@Service ("messageProvider")
+
 public class HelloWorldMessageProvider implements MessageProviderI {
     @Override
     public String getMessage() {

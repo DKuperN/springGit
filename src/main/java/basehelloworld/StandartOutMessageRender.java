@@ -21,6 +21,11 @@ public class StandartOutMessageRender implements MessageRenderI {
         this.messageProvider = provider;
     }
 
+    @Override
+    public MessageProviderI getMessageProvider() {
+        return this.messageProvider;
+    }
+
 //    public basehelloworld.MessageProviderI getMessageProvider() {
 //        return this.messageProvider;
 //    }
